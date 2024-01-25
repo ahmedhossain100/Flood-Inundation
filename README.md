@@ -7,7 +7,7 @@ Analysis showed more that 70% of the area in Sylhet and Sunamganj went under wat
 
 ### Evaluation of the Early Warning System of Flood in the North-Eastern Region of Bangladesh, AGU Fall Meeting 2022
 
-[Click here] (https://ui.adsabs.harvard.edu/abs/2022AGUFM.H56B..04H/abstract) for the document.  
+[Click here](https://ui.adsabs.harvard.edu/abs/2022AGUFM.H56B..04H/abstract) for the document.  
 
 
 ![SAR_Photo_1](https://github.com/ahmedhossain100/Flood-Inundation/assets/72346575/7cbf013a-4133-4932-abaa-e5bd8b9a1c6a)
